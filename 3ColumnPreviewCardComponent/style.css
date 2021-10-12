@@ -1,0 +1,22 @@
+.row {
+    display: flex;
+    height: 500px;
+}
+
+.column1 {
+    background-color: rgba(255, 166, 0, 0.877);
+    width: 50%;
+    height: 50%;
+   
+}
+
+.column2 {
+    background-color: rgb(0, 128, 96);
+    width: 50%;
+    height: 50%;
+}
+.column3 {
+    background-color: rgb(2, 55, 68);
+    width: 50%;
+    height: 50%;
+}
